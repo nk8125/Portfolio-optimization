@@ -46,12 +46,6 @@ To install the necessary packages, run:
 pip install -r requirements.txt
 ```
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername) - Project Lead
-- [Contributor 1](https://github.com/contributor1) - Quantum Algorithms Specialist
-- [Contributor 2](https://github.com/contributor2) - Financial Domain Expert
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
